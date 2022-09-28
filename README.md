@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=445&lines=Hello+I'm+Alex+a+Full+Stack+Developer+)](https://git.io/typing-svg)
 
 <!--
 **Alextiintoor/Alextiintoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
