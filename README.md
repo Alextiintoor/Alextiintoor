@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Alex+a+Full+Stack+Developer)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex+a+Full+Stack+Developer)]()
+
+
 <!--
-<div>
-  <img src="https://storyset.com/illustration/hand-coding/bro#90CAF9FF&hide=&hide=complete" width="30px"/>
-</div>
+
 
 **Alextiintoor/Alextiintoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
