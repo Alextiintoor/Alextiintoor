@@ -4,6 +4,7 @@
 
 &nbsp;
 &nbsp;
+
 - 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning React
 - 💬 Ask me about videogames, e-sport, anime/manga
@@ -11,7 +12,9 @@
 - 🧠 Focused on Clean Code and Best Practices
 
 
-<br/>
+&nbsp;
+
+&nbsp;
 
 ## 🔍 About me
 I'm Alex, Full Stack developer from Spain.
