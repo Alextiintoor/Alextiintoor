@@ -3,12 +3,13 @@
 <img src="./assets/coding-bro.png" width="250" height="auto" align="left"/>
 
 &nbsp;
+&nbsp;
 - 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning React
 - 💬 Ask me about videogames, e-sport, anime/manga
 - ⚡In my free time I like to learn about new technologies
 - 🧠 Focused on Clean Code and Best Practices
-- 
+
 
 <br/>
 
