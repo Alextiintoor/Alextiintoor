@@ -1,5 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex+a+Full+Stack+Developer)]()
+---
+<img src="./assets/coding-bro.png" width="250" height="auto" align="left"/>
 
+&nbsp;
+- 🔭 I’m currently working on side projects
+- 🌱 I’m currently learning React
+- 💬 Ask me about videogames, e-sport, anime/manga
+- ⚡In my free time I like to learn about new technologies
+- 🧠 Focused on Clean Code and Best Practices
+- 
+
+<br/>
+
+## 🔍 About me
+I'm Alex, Full Stack developer from Spain.
+
+## ⭐ Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nodejs,express,php,laravel,postgres,docker,git,github,gitlab,figma,vscode)](https://skillicons.dev)
+
+## 📥 Contact
+You can contact me through <a href="https://www.linkedin.com/in/alexgallardoescobar/" target="_blank">LinkedIn</a>
 
 <!--
 
