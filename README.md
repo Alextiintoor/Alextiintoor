@@ -6,7 +6,8 @@
 &nbsp;
 
 - 🔭 I’m currently working on side projects
-- 🌱 I’m currently learning React, Vue and Typescript
+- 🌱 I’m currently learning React and Typescript
+- 🥇 I'm currently mastering Vue 
 - 💬 Ask me about videogames, e-sport, anime/manga
 - ⚡In my free time I like to learn about new technologies
 - 🧠 Focused on Clean Code and Best Practices
